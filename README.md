@@ -9,7 +9,7 @@ The aim of the project is to perform sentiment analysis on the given dataset of 
 •	test.csv - the test set
 
 ## Data Fields:
-•	UserName - an anonymous id
+•	UserName - an anonymous id \n
 •	ScreenName - the id of screen
 •	TweetAt - the location of tweet
 •	Tweet - the tweet
